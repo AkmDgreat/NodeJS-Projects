@@ -1,0 +1,18 @@
+{
+  "name": "03-task-manager",
+  "version": "1.0.0",
+  "description": "this is a to-d0 list\r hence add all the functionalities, kid!\r lets get started!",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Akshat Mishra",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "http-status-codes": "^2.2.0",
+    "mongoose": "^7.0.3",
+    "nodemon": "^2.0.22"
+  }
+}
